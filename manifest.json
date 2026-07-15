@@ -1,0 +1,33 @@
+{
+  "name": "Himpunan Zikir & Wirid",
+  "short_name": "Zikir & Wirid",
+  "description": "Al-Mathurat, Hizib Bahar, Hizib Nawawi & Wirid Sakran — Arab berharakat penuh dengan terjemahan",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a1f16",
+  "theme_color": "#0a1f16",
+  "lang": "ms",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
