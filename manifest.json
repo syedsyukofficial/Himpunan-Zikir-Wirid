@@ -13,19 +13,19 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "/Himpunan-Zikir-Wirid/icons/icon-192.png",
+      "src": "/Himpunan-Zikir-Wirid/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Himpunan-Zikir-Wirid/icons/icon-512.png",
+      "src": "/Himpunan-Zikir-Wirid/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/Himpunan-Zikir-Wirid/icons/icon-maskable-512.png",
+      "src": "/Himpunan-Zikir-Wirid/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -33,14 +33,14 @@
   ],
   "screenshots": [
     {
-      "src": "/Himpunan-Zikir-Wirid/screenshots/screen-narrow.png",
+      "src": "/Himpunan-Zikir-Wirid/screen-narrow.png",
       "sizes": "540x1110",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Paparan wirid dengan teks Arab berharakat dan terjemahan"
     },
     {
-      "src": "/Himpunan-Zikir-Wirid/screenshots/screen-wide.png",
+      "src": "/Himpunan-Zikir-Wirid/screen-wide.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
